@@ -11,4 +11,3 @@ function inicio(){
     let nome = window.prompt("Qual é seu nome ?")
     window.alert(`Olá, ${nome}! É um pazer conhecer você!`);
 }
-console.log("Atualizando o js");
