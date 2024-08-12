@@ -11,4 +11,4 @@ function inicio(){
     let nome = window.prompt("Qual é seu nome ?")
     window.alert(`Olá, ${nome}! É um pazer conhecer você!`);
 }
-console.log("Criando teste de nova Branche");
+console.log("Criando teste de nova Branch");
