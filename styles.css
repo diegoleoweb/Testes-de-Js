@@ -1,0 +1,20 @@
+body{
+    font:12pt Arial;
+}
+
+.btn-texto{
+    font-size: 12pt;
+    padding: 30px;
+    box-shadow:  5px 5px rgb(113, 113, 110);
+    border-radius: 5px;
+    
+}
+
+:root{
+    --corSecundarias: blue;
+    --font-color:red;
+}
+.mudar-tema{
+    background: rgb(189, 185, 185);
+    color:var(--corSecundarias);    
+}
